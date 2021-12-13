@@ -15,4 +15,4 @@ git checkout -b programador_1 <- criar a branch "programador_1";
 git status <- conferir a alteração do arquivo README.md;
 git add (file_name) <- adicionar os arquivos do repositório local na staging;
 git commit -m <- registrar as alterações no repositório local com uma mensagem;
-git push -u origin master <- publicar os arquivos no repositório remoto;
+git push -u origin programador_1 <- publicar os arquivos no repositório remoto;
